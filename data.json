@@ -1,0 +1,33 @@
+{
+  "product": [
+    {
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsKcLtcDvagrqCxPXwH7LG9Nddg1K83l6tQ&s",
+      "pname": "shoes",
+      "bname": "nike",
+      "pprice": "1000",
+      "id": "1"
+    },
+    {
+      "id": "3",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsKcLtcDvagrqCxPXwH7LG9Nddg1K83l6tQ&s",
+      "pname": "shoes",
+      "bname": "nike",
+      "pprice": 999
+    },
+    {
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn8SfVm34eY9PL3DKdp1bJ0G5zXvQ6CxAiqg&s",
+      "pname": "shoes",
+      "bname": "nike",
+      "pprice": "999",
+      "id": "7"
+    },
+    {
+      "id": "9",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfsKcLtcDvagrqCxPXwH7LG9Nddg1K83l6tQ&s",
+      "pname": "shoes",
+      "bname": "nike",
+      "pprice": 999
+    }
+  ],
+  "user": []
+}
